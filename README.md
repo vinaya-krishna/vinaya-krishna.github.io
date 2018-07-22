@@ -14,6 +14,6 @@ Here I am using a already existing back-end server.
 
 
 There are some issues , I will be resolving it whenever I get time.
-- [x] Fix Reply in Messages page
+- [] Fix Reply in Messages page
 - [ ] If user tries to open Messages page directly redirect to login page.
 - [ ] Build my own backend server and host the app in heroku.
