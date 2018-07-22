@@ -24,7 +24,7 @@ loginForm.addEventListener('submit', function(event){
             password: password.value
         }
 
-        var url = 'http://localhost:3000/login';
+        var url = 'https://personal-portfolio-page.herokuapp.com/login';
         var data = loginData;
 
         fetch(url, {

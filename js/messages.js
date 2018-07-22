@@ -4,7 +4,7 @@ const tableMsg = document.getElementById("table-msg");
 
 
 
-const url = "http://localhost:3000/messages"
+const url = "https://personal-portfolio-page.herokuapp.com/messages"
 
 
 
